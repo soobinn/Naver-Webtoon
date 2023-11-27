@@ -1,0 +1,163 @@
+{
+    "dayName": "개그",
+    "orderType": "VIEW",
+    "titleList": [
+        {
+            "titleId": 800331,
+            "titleName": "지옥 키우기",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/800331/thumbnail/thumbnail_IMAG21_54515d5f-c297-48b9-a9ad-07c759d278b4.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [{ "id": 358329, "name": "세하" }],
+                "painters": [{ "id": 358329, "name": "세하" }],
+                "originAuthors": []
+            },
+            "displayAuthor": "세하",
+            "up": false,
+            "rest": true,
+            "openToday": false
+        },
+        {
+            "titleId": 793410,
+            "titleName": "별빛 커튼콜",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/793410/thumbnail/thumbnail_IMAG21_e2baecd4-0f45-40b2-9de9-667f86e1f7f2.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [{ "id": 329168, "name": "아르몽" }],
+                "painters": [{ "id": 329168, "name": "아르몽" }],
+                "originAuthors": []
+            },
+            "displayAuthor": "아르몽",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        },
+        {
+            "titleId": 801992,
+            "titleName": "뜨거운 홍차",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/801992/thumbnail/thumbnail_IMAG21_84951a6c-71f7-42d1-8656-2625b47a9de9.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [
+                    {
+                        "id": 343001,
+                        "name": "에리카",
+                        "blogUrl": "https://blog.naver.com/erica_-"
+                    },
+                    { "id": 363555, "name": "느리" }
+                ],
+                "painters": [{ "id": 359140, "name": "ZZING" }],
+                "originAuthors": [{ "id": 359139, "name": "김빵" }]
+            },
+            "displayAuthor": "에리카, 느리 / ZZING / 김빵",
+            "up": false,
+            "rest": true,
+            "openToday": false
+        },
+        {
+            "titleId": 800006,
+            "titleName": "미드우트",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/800006/thumbnail/thumbnail_IMAG21_027497ee-7115-4fb9-b8ae-d99f54e47e42.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [{ "id": 358169, "name": "원김" }],
+                "painters": [{ "id": 358169, "name": "원김" }],
+                "originAuthors": []
+            },
+            "displayAuthor": "원김",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        },
+        {
+            "titleId": 803119,
+            "titleName": "푸른 밤, 황홀의 윤무",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/803119/thumbnail/thumbnail_IMAG21_cfc478c6-3b56-4bdf-b959-089775b2b916.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [{ "id": 359657, "name": "호찌" }],
+                "painters": [{ "id": 359658, "name": "해독" }],
+                "originAuthors": [{ "id": 359659, "name": "유안나" }]
+            },
+            "displayAuthor": "호찌 / 해독 / 유안나",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        },
+        {
+            "titleId": 797221,
+            "titleName": "비밀친구",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/797221/thumbnail/thumbnail_IMAG21_7089289671999633716.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [{ "id": 356840, "name": "이밤애" }],
+                "painters": [{ "id": 356841, "name": "사바싸" }],
+                "originAuthors": []
+            },
+            "displayAuthor": "이밤애 / 사바싸",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        },
+        {
+            "titleId": 798622,
+            "titleName": "천상의 주인",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/798622/thumbnail/thumbnail_IMAG21_0fd8f2b5-635c-4d34-ad9a-ef26e4de39ac.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [{ "id": 357479, "name": "권러프" }],
+                "painters": [{ "id": 328020, "name": "MOOHAK" }],
+                "originAuthors": []
+            },
+            "displayAuthor": "권러프 / MOOHAK",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        },
+        {
+            "titleId": 803371,
+            "titleName": "애증화음",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/803371/thumbnail/thumbnail_IMAG21_86c1543c-a30a-41cd-b010-ca749e5e7f25.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [{ "id": 359835, "name": "전구" }],
+                "painters": [{ "id": 359835, "name": "전구" }],
+                "originAuthors": []
+            },
+            "displayAuthor": "전구",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        },
+        {
+            "titleId": 802578,
+            "titleName": "신의 최애캐",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/802578/thumbnail/thumbnail_IMAG21_d687ee7c-9d25-4b56-8b89-b0acf3c0662a.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [{ "id": 359393, "name": "김찹쌀" }],
+                "painters": [{ "id": 359393, "name": "김찹쌀" }],
+                "originAuthors": []
+            },
+            "displayAuthor": "김찹쌀",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        },
+        {
+            "titleId": 802359,
+            "titleName": "세라는 망돌",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/802359/thumbnail/thumbnail_IMAG21_3fa11f89-cf2d-4258-b130-7dd84bc14c95.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [{ "id": 359300, "name": "햇살" }],
+                "painters": [{ "id": 359300, "name": "햇살" }],
+                "originAuthors": []
+            },
+            "displayAuthor": "햇살",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        }
+    ]
+}

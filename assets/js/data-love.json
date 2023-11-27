@@ -1,0 +1,171 @@
+{
+    "Name": "심장이 쫄깃해지는 스릴러",
+    "orderType": "VIEW",
+    "titleList": [
+        {
+            "titleId": 725586,
+            "titleName": "1초",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/725586/thumbnail/thumbnail_IMAG21_17f81846-d1a9-43fd-83a4-f9e966b6b977.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [
+                    {
+                        "id": 237961,
+                        "name": "시니",
+                        "blogUrl": "https://blog.naver.com/kgmsini_"
+                    }
+                ],
+                "painters": [{ "id": 324283, "name": "광운" }],
+                "originAuthors": []
+            },
+            "displayAuthor": "시니 / 광운",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        },
+        {
+            "titleId": 644112,
+            "titleName": "몽홀",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/644112/thumbnail/thumbnail_IMAG21_3618981192359294768.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [{ "id": 284440, "name": "장태산", "blogUrl": "" }],
+                "painters": [{ "id": 284440, "name": "장태산", "blogUrl": "" }],
+                "originAuthors": []
+            },
+            "displayAuthor": "장태산",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        },
+        {
+            "titleId": 798917,
+            "titleName": "언니, 이번 생엔 내가 왕비야",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/798917/thumbnail/thumbnail_IMAG21_35c1a390-7598-418e-9902-dc9a84f22d8b.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [{ "id": 357627, "name": "Omin" }],
+                "painters": [{ "id": 357626, "name": "테미스" }],
+                "originAuthors": [{ "id": 357628, "name": "레팔진프" }]
+            },
+            "displayAuthor": "Omin / 테미스 / 레팔진프",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        },
+        {
+            "titleId": 817032,
+            "titleName": "열렙전사 3부",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/817032/thumbnail/thumbnail_IMAG21_75d7192e-5de2-46ae-bd94-749477fbabe6.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [
+                    {
+                        "id": 297886,
+                        "name": "김세훈",
+                        "blogUrl": "https://blog.naver.com/23111"
+                    }
+                ],
+                "painters": [
+                    {
+                        "id": 297886,
+                        "name": "김세훈",
+                        "blogUrl": "https://blog.naver.com/23111"
+                    }
+                ],
+                "originAuthors": []
+            },
+            "displayAuthor": "김세훈",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        },
+        {
+            "titleId": 790713,
+            "titleName": "대학원 탈출일지",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/790713/thumbnail/thumbnail_IMAG21_3919364435331003700.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [{ "id": 353932, "name": "요다" }],
+                "painters": [{ "id": 353932, "name": "요다" }],
+                "originAuthors": []
+            },
+            "displayAuthor": "요다",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        },
+        {
+            "titleId": 751168,
+            "titleName": "상남자",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/751168/thumbnail/thumbnail_IMAG21_529c6125-cf14-435f-94ed-db1a2d499d84.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [{ "id": 353211, "name": "하늘소" }],
+                "painters": [
+                    {
+                        "id": 257817,
+                        "name": "도가도",
+                        "blogUrl": "https://blog.naver.com/jumpguy"
+                    }
+                ],
+                "originAuthors": [{ "id": 353007, "name": "김태궁" }]
+            },
+            "displayAuthor": "하늘소 / 도가도 / 김태궁",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        },
+        {
+            "titleId": 746534,
+            "titleName": "낙향문사전",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/746534/thumbnail/thumbnail_IMAG21_3904681570744218160.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [{ "id": 333924, "name": "바킹독" }],
+                "painters": [{ "id": 349937, "name": "팀 페가수스" }],
+                "originAuthors": [{ "id": 347605, "name": "언라이팅" }]
+            },
+            "displayAuthor": "바킹독 / 팀 페가수스 / 언라이팅",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        },
+        {
+            "titleId": 712362,
+            "titleName": "개를 낳았다",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/712362/thumbnail/thumbnail_IMAG21_7220173143199539507.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [{ "id": 318260, "name": "이선" }],
+                "painters": [{ "id": 318260, "name": "이선" }],
+                "originAuthors": []
+            },
+            "displayAuthor": "이선",
+            "up": false,
+            "rest": true,
+            "openToday": false
+        },
+        {
+            "titleId": 772764,
+            "titleName": "죽지 않으려면",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/772764/thumbnail/thumbnail_IMAG21_be1cd9e7-17da-449a-bc04-1294015fdbd5.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [{ "id": 346138, "name": "파래" }],
+                "painters": [
+                    {
+                        "id": 164171,
+                        "name": "임진국",
+                        "blogUrl": "https://blog.naver.com/freemic"
+                    }
+                ],
+                "originAuthors": []
+            },
+            "displayAuthor": "파래 / 임진국",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        }
+    ]
+}

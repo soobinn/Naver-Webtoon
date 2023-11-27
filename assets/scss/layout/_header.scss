@@ -1,0 +1,117 @@
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 3000;
+    background-color: #fff;
+    width: 100%;
+    .gnb {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 15px 16px 0px;
+        position: relative;
+        height: 40px;
+        .left {
+            align-items: center;
+            gap: 5px;
+            display: flex;
+
+            .link-logo {
+                position: relative;
+                width: 17px;
+                height: 18px;
+                display: block;
+                &::before {
+                    background-position: 0 -297px;
+                }
+            }
+            & > *[class*="link-"] {
+                position: relative;
+                padding: 0px 6px;
+                font-size: 18px;
+                font-weight: 500;
+                color: rgba(0, 0, 0, 0.2);
+            }
+            & > *[class*="link-"]::before {
+                content: "";
+                position: absolute;
+                top: 0px;
+                right: -4px;
+                width: 1px;
+                height: 80%;
+                background-color: #e0e0e0;
+            }
+
+            .link-series::before {
+                content: none;
+            }
+            #on {
+                color: #000;
+            }
+        }
+
+        .right {
+            display: flex;
+            gap: 16px;
+            align-items: center;
+            .btn-serch {
+                display: block;
+                position: relative;
+                width: 16px;
+                height: 16px;
+            }
+            .btn-serch::before {
+                background-position: -128px -297px;
+            }
+
+            .link-my {
+                position: relative;
+                width: 29px;
+                height: 16px;
+                display: block;
+            }
+            .link-my::before {
+                background-position: -74px -271px;
+            }
+        }
+    }
+
+    .lnb {
+        position: relative;
+        z-index: 200;
+        margin-top: 2px;
+        border-bottom: 1px solid #ebebeb;
+        text-align: center;
+        background: #fff;
+
+        .lnb-list {
+            display: flex;
+            justify-content: space-between;
+            max-width: 558px;
+            margin: 0px auto;
+
+            .lnb-item {
+                & > a {
+                    font-size: 15px;
+                    font-weight: 500;
+                    display: block;
+                    height: 42px;
+                    padding: 0 22px;
+                    font-size: 15px;
+                    font-weight: 500;
+                    line-height: 51px;
+                    white-space: nowrap;
+
+                    &.on > span {
+                        padding: 0 3px;
+                        display: inline-block;
+                        height: 25px;
+                        color: #00d564;
+                        border-bottom: 2px solid #00d564;
+                    }
+                }
+            }
+        }
+    }
+}

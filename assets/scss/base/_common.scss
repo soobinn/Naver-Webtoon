@@ -1,0 +1,65 @@
+.blind {
+    position: absolute;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    width: 1px;
+    height: 1px;
+    margin: -1px;
+}
+
+header nav .left .link-logo::before,
+header nav .right .btn-serch::before,
+header nav .right .link-my::before,
+footer .naver-info .btn-show::before,
+footer .copy .link-limited::before,
+main .plus .link-webtoon::before,
+footer .btn-top {
+    background-image: url("../images/content/sp_comic.png");
+    background-position: center;
+    background-size: 340px 331px;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+
+    content: "";
+    position: absolute;
+}
+.sc-rank .rankSwiper .up::before,
+.sc-time .timeSwiper .cut::before {
+    background-image: url("../images/content/sp_badge.png");
+    background-position: center;
+    background-size: 142px 121px;
+
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+
+    content: "";
+    position: absolute;
+}
+
+@media screen and (min-width: 1023px) {
+    /* *1024을 기준으로 화면을 보고 잡아야함 */
+}
+
+@media screen and (min-width: 768px) {
+    /* *768을보고 잡아야함 */
+    footer .addition .add2-list,
+    .footer .addition .add-list {
+        max-width: none !important;
+    }
+    .footer .addition .add-list .add-item:nth-child(4) .link-add::before {
+        width: 1px !important;
+    }
+}
+
+@media screen and (min-width: 320px) {
+    /* *320을 보고 잡아야함 */
+    footer .addition .add2-list {
+        max-width: 260px;
+    }
+
+    .footer .addition .add-list .add-item:nth-child(4) .link-add::before {
+        width: 0px;
+    }
+}

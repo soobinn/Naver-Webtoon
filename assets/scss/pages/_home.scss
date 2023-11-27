@@ -1,0 +1,334 @@
+main {
+    margin-top: 85px;
+    hr {
+        display: block;
+        height: 4px;
+        margin: 0;
+        border: none;
+        background: #eee;
+    }
+
+    .plus {
+        .link-webtoon {
+            border-top: 1px solid #eee;
+            padding: 0 16px 0 48px;
+
+            align-items: center;
+            position: relative;
+            display: flex;
+            height: 46px;
+            background: #fff;
+            font-size: 13px;
+            color: #000;
+            letter-spacing: -0.43px;
+            line-height: 46px;
+        }
+        .link-webtoon::before {
+            background-position: -268px -121px;
+            width: 26px;
+            height: 26px;
+            top: 10px;
+            left: 16px;
+        }
+
+        span {
+            display: inline-block;
+            padding-left: 45px;
+        }
+    }
+}
+
+.modul-wrap {
+    padding: 20px 0 17px;
+    .head-line {
+        padding: 0 16px;
+        .title {
+            font-weight: 700;
+            font-size: 14px;
+            line-height: 1.25em;
+        }
+    }
+
+    .swiper {
+        padding: 12px 0 0 16px;
+        .swiper-wrapper {
+            .swiper-slide {
+                width: 130px !important;
+                border-radius: 2px;
+            }
+        }
+
+        .img-box {
+            border-radius: 2px;
+            overflow: hidden;
+            img {
+                width: 100%;
+                height: 100%;
+            }
+        }
+        .title,
+        .author {
+            overflow: hidden;
+            text-overflow: ellipsis;
+            white-space: nowrap;
+            width: 120px;
+        }
+        .title {
+            display: block;
+            padding-top: 7px;
+            font-size: 14px;
+        }
+        .author {
+            margin-top: 1px;
+            font-size: 12px;
+            color: #999;
+        }
+    }
+}
+
+// .sc-rank
+.sc-rank,
+.sc-time {
+    padding: 20px 0;
+    .head-line {
+        padding: 0 16px;
+        .title {
+            font-weight: 700;
+            font-size: 15px;
+        }
+    }
+
+    .swiper {
+        position: relative;
+        margin-top: 10px;
+        padding: 0px 16px;
+
+        .rank-box {
+            display: flex;
+            margin-top: 6px;
+        }
+        .img-box {
+            width: 78px;
+            height: 55px;
+            overflow: hidden;
+            border-radius: 2px;
+        }
+        .text-box {
+            margin-top: 9px;
+            flex: 1;
+            display: flex;
+
+            .number {
+                width: 30px;
+                text-align: center;
+                display: block;
+                font-size: 20px;
+                color: #222;
+            }
+            .info {
+                position: relative;
+                flex: 1;
+            }
+            .title {
+                font-size: 14px;
+            }
+            .desc {
+                text-overflow: ellipsis;
+                white-space: nowrap;
+                margin-top: 3px;
+                font-size: 12px;
+                line-height: 15px;
+                color: #999;
+            }
+
+            .up,
+            .cut {
+                width: 22px;
+                height: 12px;
+                position: relative;
+                display: inline-block;
+            }
+            .up::before {
+                background-position: -120px 0;
+            }
+            .cut::before {
+                background-position: -120px -42px;
+            }
+        }
+        .swiper-pagination {
+            display: flex;
+            position: static;
+            height: 30px;
+            align-items: center;
+        }
+        .swiper-pagination-bullet {
+            margin: 5px 13px;
+            border: none;
+            background: none;
+            font-size: 14px;
+            font-weight: 600;
+            line-height: 16px;
+            width: auto;
+            color: #000;
+            background-color: transparent;
+        }
+    }
+}
+
+// ad-modul
+
+.ad-modul {
+    padding: 20px 0;
+
+    img {
+        position: relative;
+        z-index: 100;
+        display: block;
+        max-width: 320px;
+        margin: 0 auto;
+    }
+
+    &.ad1 .link-ad {
+        display: block;
+        background-color: #87d0ff;
+    }
+    &.ad2 .link-ad {
+        display: block;
+        background-color: #fe9297;
+    }
+}
+
+// .sc-newRank
+
+.sc-newRank {
+    padding: 20px 0;
+    overflow: hidden;
+
+    .head-line {
+        display: flex;
+        align-items: center;
+        padding: 0px 16px;
+        justify-content: space-between;
+        .swiper-pagination-fraction {
+            text-align: right !important;
+            width: auto !important;
+            position: static !important;
+            color: #999;
+            font-size: 12px;
+            font-weight: 700;
+
+            .swiper-pagination-current {
+                color: #000;
+            }
+        }
+        .title {
+            font-size: 15px;
+            font-weight: 700;
+        }
+    }
+
+    .newSwiper {
+        overflow: visible;
+        margin-top: 12px;
+        height: 130px;
+        padding: 0px 83px 0px 16px;
+
+        .swiper-pagination {
+            .swiper-pagination-current {
+                color: #000;
+            }
+            font-size: 12px;
+            font-weight: 700;
+            color: #999;
+            top: -28px;
+            text-align: right;
+            height: max-content;
+            height: 15px;
+            padding: 0px 16px;
+        }
+        .swiper-slide {
+            border-radius: 2px;
+            overflow: hidden;
+
+            @include mobile {
+                display: flex;
+                align-items: center;
+            }
+
+            &:nth-child(1) {
+                background: rgb(195, 223, 255);
+            }
+            &:nth-child(2) {
+                background: rgb(247, 194, 181);
+            }
+
+            &:nth-child(3) {
+                background: rgb(204, 189, 217);
+            }
+            &:nth-child(4) {
+                background: rgb(195, 223, 255);
+            }
+            &:nth-child(5) {
+                background: rgb(208, 238, 243);
+            }
+            .new-con {
+                border: 1px solid rgba(0, 0, 0, 0.06);
+                display: flex;
+                align-items: center;
+                justify-content: center;
+
+                @include mobile {
+                    height: 100%;
+                }
+            }
+            .con-wrap {
+                display: flex;
+                align-items: center;
+                max-width: 296px;
+            }
+            .text-box {
+                .title {
+                    width: 118px;
+                    font-size: 16px;
+                    line-height: 19px;
+                    display: block;
+                    @include mobile {
+                        font-size: 12px;
+                        width: 100%;
+                    }
+                }
+                .author {
+                    display: block;
+                    width: 120px;
+                    margin-top: 2px;
+                    font-size: 12px;
+                    line-height: 15px;
+                    opacity: 0.4;
+                    @include mobile {
+                        width: 100%;
+                    }
+                }
+                .desc {
+                    overflow: hidden;
+                    text-overflow: ellipsis;
+                    width: 118px;
+                    margin-top: 6px;
+                    font-size: 12px;
+                    color: #4c4c4c;
+                    line-height: 16px;
+                    letter-spacing: -0.2px;
+                }
+            }
+            .img-box {
+                img {
+                    width: 163px;
+                    height: 130px;
+                    @include mobile {
+                        width: 100px;
+                        height: 100px;
+                    }
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,275 @@
+{
+    "defaultSortType": "total",
+    "totalRankingTitleList": [
+        {
+            "rank": 1,
+            "titleId": 641253,
+            "titleName": "외모지상주의",
+            "author": {
+                "writers": [
+                    {
+                        "id": 283063,
+                        "name": "박태준",
+                        "blogUrl": "https://blog.naver.com/thesooha"
+                    }
+                ],
+                "painters": [
+                    {
+                        "id": 283063,
+                        "name": "박태준",
+                        "blogUrl": "https://blog.naver.com/thesooha"
+                    }
+                ],
+                "originAuthors": []
+            },
+            "displayAuthor": "박태준",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/641253/thumbnail/thumbnail_IMAG21_01672165-03c8-44b1-ba0e-ef82c9cfcd10.jpg",
+            "thumbnailBadgeList": [],
+            "up": true,
+            "rest": false
+        },
+        {
+            "rank": 2,
+            "titleId": 817081,
+            "titleName": "오늘은 나랑 만나",
+            "author": {
+                "writers": [{ "id": 305532, "name": "네이버웹툰 작가" }],
+                "painters": [{ "id": 305532, "name": "네이버웹툰 작가" }],
+                "originAuthors": []
+            },
+            "displayAuthor": "네이버웹툰 작가",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/817081/thumbnail/thumbnail_IMAG21_439e78c2-e71e-4671-ad2f-703327c0bd8d.jpeg",
+            "thumbnailBadgeList": [],
+            "up": true,
+            "rest": false
+        },
+        {
+            "rank": 3,
+            "titleId": 777767,
+            "titleName": "역대급 영지 설계사",
+            "author": {
+                "writers": [
+                    {
+                        "id": 171384,
+                        "name": "이현민",
+                        "blogUrl": "https://blog.naver.com/gaogao66"
+                    }
+                ],
+                "painters": [{ "id": 348731, "name": "김현수" }],
+                "originAuthors": [{ "id": 331721, "name": "문백경" }]
+            },
+            "displayAuthor": "이현민 / 김현수 / 문백경",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/777767/thumbnail/thumbnail_IMAG21_cc85f891-272b-450a-b642-cffe1568ab71.jpg",
+            "thumbnailBadgeList": [],
+            "up": true,
+            "rest": false
+        },
+        {
+            "rank": 4,
+            "rankUp": 1,
+            "titleId": 776601,
+            "titleName": "광마회귀",
+            "author": {
+                "writers": [{ "id": 348256, "name": "JP" }],
+                "painters": [{ "id": 348089, "name": "이히" }],
+                "originAuthors": [{ "id": 348016, "name": "유진성" }]
+            },
+            "displayAuthor": "JP / 이히 / 유진성",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/776601/thumbnail/thumbnail_IMAG21_7365135131254864183.jpg",
+            "thumbnailBadgeList": [],
+            "up": true,
+            "rest": false
+        },
+        {
+            "rank": 5,
+            "rankDown": 1,
+            "titleId": 773797,
+            "titleName": "나 혼자 만렙 뉴비",
+            "author": {
+                "writers": [{ "id": 348482, "name": "WAN.Z" }],
+                "painters": [{ "id": 348481, "name": "스윙뱃" }],
+                "originAuthors": [{ "id": 348480, "name": "메슬로우" }]
+            },
+            "displayAuthor": "WAN.Z / 스윙뱃 / 메슬로우",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/773797/thumbnail/thumbnail_IMAG21_4dda13fe-417f-45b9-9696-880f2487d41d.jpg",
+            "thumbnailBadgeList": [],
+            "up": true,
+            "rest": false
+        }
+    ],
+    "maleRankingTitleList": [
+        {
+            "rank": 1,
+            "titleId": 641253,
+            "titleName": "외모지상주의",
+            "author": {
+                "writers": [
+                    {
+                        "id": 283063,
+                        "name": "박태준",
+                        "blogUrl": "https://blog.naver.com/thesooha"
+                    }
+                ],
+                "painters": [
+                    {
+                        "id": 283063,
+                        "name": "박태준",
+                        "blogUrl": "https://blog.naver.com/thesooha"
+                    }
+                ],
+                "originAuthors": []
+            },
+            "displayAuthor": "박태준",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/641253/thumbnail/thumbnail_IMAG21_01672165-03c8-44b1-ba0e-ef82c9cfcd10.jpg",
+            "thumbnailBadgeList": [],
+            "up": true,
+            "rest": false
+        },
+        {
+            "rank": 2,
+            "titleId": 777767,
+            "titleName": "역대급 영지 설계사",
+            "author": {
+                "writers": [
+                    {
+                        "id": 171384,
+                        "name": "이현민",
+                        "blogUrl": "https://blog.naver.com/gaogao66"
+                    }
+                ],
+                "painters": [{ "id": 348731, "name": "김현수" }],
+                "originAuthors": [{ "id": 331721, "name": "문백경" }]
+            },
+            "displayAuthor": "이현민 / 김현수 / 문백경",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/777767/thumbnail/thumbnail_IMAG21_cc85f891-272b-450a-b642-cffe1568ab71.jpg",
+            "thumbnailBadgeList": [],
+            "up": true,
+            "rest": false
+        },
+        {
+            "rank": 3,
+            "titleId": 773797,
+            "titleName": "나 혼자 만렙 뉴비",
+            "author": {
+                "writers": [{ "id": 348482, "name": "WAN.Z" }],
+                "painters": [{ "id": 348481, "name": "스윙뱃" }],
+                "originAuthors": [{ "id": 348480, "name": "메슬로우" }]
+            },
+            "displayAuthor": "WAN.Z / 스윙뱃 / 메슬로우",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/773797/thumbnail/thumbnail_IMAG21_4dda13fe-417f-45b9-9696-880f2487d41d.jpg",
+            "thumbnailBadgeList": [],
+            "up": true,
+            "rest": false
+        },
+        {
+            "rank": 4,
+            "titleId": 776601,
+            "titleName": "광마회귀",
+            "author": {
+                "writers": [{ "id": 348256, "name": "JP" }],
+                "painters": [{ "id": 348089, "name": "이히" }],
+                "originAuthors": [{ "id": 348016, "name": "유진성" }]
+            },
+            "displayAuthor": "JP / 이히 / 유진성",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/776601/thumbnail/thumbnail_IMAG21_7365135131254864183.jpg",
+            "thumbnailBadgeList": [],
+            "up": true,
+            "rest": false
+        },
+        {
+            "rank": 5,
+            "titleId": 817081,
+            "titleName": "오늘은 나랑 만나",
+            "author": {
+                "writers": [{ "id": 305532, "name": "네이버웹툰 작가" }],
+                "painters": [{ "id": 305532, "name": "네이버웹툰 작가" }],
+                "originAuthors": []
+            },
+            "displayAuthor": "네이버웹툰 작가",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/817081/thumbnail/thumbnail_IMAG21_439e78c2-e71e-4671-ad2f-703327c0bd8d.jpeg",
+            "thumbnailBadgeList": [],
+            "up": true,
+            "rest": false
+        }
+    ],
+    "femaleRankingTitleList": [
+        {
+            "rank": 1,
+            "titleId": 817081,
+            "titleName": "오늘은 나랑 만나",
+            "author": {
+                "writers": [{ "id": 305532, "name": "네이버웹툰 작가" }],
+                "painters": [{ "id": 305532, "name": "네이버웹툰 작가" }],
+                "originAuthors": []
+            },
+            "displayAuthor": "네이버웹툰 작가",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/817081/thumbnail/thumbnail_IMAG21_439e78c2-e71e-4671-ad2f-703327c0bd8d.jpeg",
+            "thumbnailBadgeList": [],
+            "up": true,
+            "rest": false
+        },
+        {
+            "rank": 2,
+            "titleId": 735661,
+            "titleName": "재혼 황후",
+            "author": {
+                "writers": [{ "id": 322350, "name": "히어리" }],
+                "painters": [{ "id": 328892, "name": "숨풀" }],
+                "originAuthors": [{ "id": 328891, "name": "알파타르트" }]
+            },
+            "displayAuthor": "히어리 / 숨풀 / 알파타르트",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/735661/thumbnail/thumbnail_IMAG21_4b3c44a0-f286-4878-bac3-84c3ec9dc0a1.jpg",
+            "thumbnailBadgeList": [],
+            "up": true,
+            "rest": false
+        },
+        {
+            "rank": 3,
+            "rankUp": 1,
+            "titleId": 798917,
+            "titleName": "언니, 이번 생엔 내가 왕비야",
+            "author": {
+                "writers": [{ "id": 357627, "name": "Omin" }],
+                "painters": [{ "id": 357626, "name": "테미스" }],
+                "originAuthors": [{ "id": 357628, "name": "레팔진프" }]
+            },
+            "displayAuthor": "Omin / 테미스 / 레팔진프",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/798917/thumbnail/thumbnail_IMAG21_35c1a390-7598-418e-9902-dc9a84f22d8b.jpg",
+            "thumbnailBadgeList": [],
+            "up": true,
+            "rest": false
+        },
+        {
+            "rank": 4,
+            "rankDown": 1,
+            "titleId": 816575,
+            "titleName": "정신병동에도 아침이 와요",
+            "author": {
+                "writers": [{ "id": 371035, "name": "이라하" }],
+                "painters": [{ "id": 371035, "name": "이라하" }],
+                "originAuthors": []
+            },
+            "displayAuthor": "이라하",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/816575/thumbnail/thumbnail_IMAG21_f2582a41-f759-48d7-b836-924ded628340.jpg",
+            "thumbnailBadgeList": [],
+            "up": false,
+            "rest": false
+        },
+        {
+            "rank": 5,
+            "rankUp": 1,
+            "titleId": 804160,
+            "titleName": "전남편의 미친개를 길들였다",
+            "author": {
+                "writers": [{ "id": 341865, "name": "철무장미" }],
+                "painters": [{ "id": 360256, "name": "자개" }],
+                "originAuthors": [{ "id": 360257, "name": "재겸" }]
+            },
+            "displayAuthor": "철무장미 / 자개 / 재겸",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/804160/thumbnail/thumbnail_IMAG21_335a77d2-bbcd-4766-83f6-8d90120e9379.jpg",
+            "thumbnailBadgeList": [],
+            "up": true,
+            "rest": false
+        }
+    ]
+}

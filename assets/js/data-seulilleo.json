@@ -1,0 +1,178 @@
+{
+    "Name": "사랑과 증오는 한끝 차이?!",
+
+    "orderType": "STAR",
+    "titleList": [
+        {
+            "titleId": 818401,
+            "titleName": "소곤소곤2",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/818401/thumbnail/thumbnail_IMAG21_cd86e2ad-b79b-45d2-9b64-92776e30bd3d.jpg",
+            "thumbnailBadgeList": ["NEW"],
+            "author": {
+                "writers": [
+                    {
+                        "id": 295916,
+                        "name": "옛사람",
+                        "blogUrl": "https://blog.naver.com/frisatsun01"
+                    }
+                ],
+                "painters": [
+                    {
+                        "id": 295916,
+                        "name": "옛사람",
+                        "blogUrl": "https://blog.naver.com/frisatsun01"
+                    }
+                ],
+                "originAuthors": []
+            },
+            "displayAuthor": "옛사람",
+            "up": true,
+            "rest": false,
+            "openToday": true
+        },
+        {
+            "titleId": 818334,
+            "titleName": "복수 법률사무소",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/818334/thumbnail/thumbnail_IMAG21_fb7875f9-68b9-468c-b0db-02776ad56bd7.jpg",
+            "thumbnailBadgeList": ["NEW"],
+            "author": {
+                "writers": [{ "id": 350765, "name": "이석준" }],
+                "painters": [{ "id": 372733, "name": "기선우" }],
+                "originAuthors": [{ "id": 372731, "name": "도진기" }]
+            },
+            "displayAuthor": "이석준 / 기선우 / 도진기",
+            "up": true,
+            "rest": false,
+            "openToday": true
+        },
+        {
+            "titleId": 761722,
+            "titleName": "세기말 풋사과 보습학원",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/761722/thumbnail/thumbnail_IMAG21_8ad71820-0c48-418a-89e9-5c001e393f54.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [
+                    {
+                        "id": 156418,
+                        "name": "순끼",
+                        "blogUrl": "https://blog.naver.com/soonkki"
+                    }
+                ],
+                "painters": [
+                    {
+                        "id": 156418,
+                        "name": "순끼",
+                        "blogUrl": "https://blog.naver.com/soonkki"
+                    }
+                ],
+                "originAuthors": []
+            },
+            "displayAuthor": "순끼",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        },
+        {
+            "titleId": 725586,
+            "titleName": "1초",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/725586/thumbnail/thumbnail_IMAG21_17f81846-d1a9-43fd-83a4-f9e966b6b977.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [
+                    {
+                        "id": 237961,
+                        "name": "시니",
+                        "blogUrl": "https://blog.naver.com/kgmsini_"
+                    }
+                ],
+                "painters": [{ "id": 324283, "name": "광운" }],
+                "originAuthors": []
+            },
+            "displayAuthor": "시니 / 광운",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        },
+        {
+            "titleId": 804160,
+            "titleName": "전남편의 미친개를 길들였다",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/804160/thumbnail/thumbnail_IMAG21_335a77d2-bbcd-4766-83f6-8d90120e9379.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [{ "id": 341865, "name": "철무장미" }],
+                "painters": [{ "id": 360256, "name": "자개" }],
+                "originAuthors": [{ "id": 360257, "name": "재겸" }]
+            },
+            "displayAuthor": "철무장미 / 자개 / 재겸",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        },
+        {
+            "titleId": 777767,
+            "titleName": "역대급 영지 설계사",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/777767/thumbnail/thumbnail_IMAG21_cc85f891-272b-450a-b642-cffe1568ab71.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [
+                    {
+                        "id": 171384,
+                        "name": "이현민",
+                        "blogUrl": "https://blog.naver.com/gaogao66"
+                    }
+                ],
+                "painters": [{ "id": 348731, "name": "김현수" }],
+                "originAuthors": [{ "id": 331721, "name": "문백경" }]
+            },
+            "displayAuthor": "이현민 / 김현수 / 문백경",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        },
+        {
+            "titleId": 783540,
+            "titleName": "여름여자 하보이",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/783540/thumbnail/thumbnail_IMAG21_68171ccc-7365-47ed-babe-6e20dc3fc3b5.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [{ "id": 350880, "name": "석영" }],
+                "painters": [{ "id": 350880, "name": "석영" }],
+                "originAuthors": []
+            },
+            "displayAuthor": "석영",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        },
+        {
+            "titleId": 783527,
+            "titleName": "그렇고 그런 바람에",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/783527/thumbnail/thumbnail_IMAG21_e43d251c-2624-4f7d-871f-3c829ba25efa.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [{ "id": 329411, "name": "아니영" }],
+                "painters": [{ "id": 329411, "name": "아니영" }],
+                "originAuthors": []
+            },
+            "displayAuthor": "아니영",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        },
+        {
+            "titleId": 790713,
+            "titleName": "대학원 탈출일지",
+            "thumbnailUrl": "https://image-comic.pstatic.net/webtoon/790713/thumbnail/thumbnail_IMAG21_3919364435331003700.jpg",
+            "thumbnailBadgeList": [],
+            "author": {
+                "writers": [{ "id": 353932, "name": "요다" }],
+                "painters": [{ "id": 353932, "name": "요다" }],
+                "originAuthors": []
+            },
+            "displayAuthor": "요다",
+            "up": true,
+            "rest": false,
+            "openToday": false
+        }
+    ]
+}
