@@ -1150,7 +1150,7 @@ header .lnb .lnb-list .lnb-item > a {
   font-weight: 500;
   display: block;
   height: 42px;
-  padding: 0 22px;
+  padding: 0 20px;
   font-size: 15px;
   font-weight: 500;
   line-height: 51px;
@@ -1169,6 +1169,7 @@ footer {
   background: #f6f6f6;
   color: #666;
   position: relative;
+  overflow: hidden;
 }
 footer .ad-modul {
   padding: 0;
